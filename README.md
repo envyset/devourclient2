@@ -5,8 +5,9 @@ This project is a secondary development based on ALittlePatate's devourclient.�
 https://github.com/ALittlePatate/DevourClient
 <img width="935" height="462" alt="image" src="https://github.com/user-attachments/assets/35a868fb-0b63-4c01-a57b-1f302dce5b4c" />
 # How to use 如何使用
-After loading the game, button options will appear.You can find it in the player module.</n>游戏加载完毕后，会出现按钮选项。您可以在玩家模块中找到它。
-<img width="703" height="422" alt="image" src="https://github.com/user-attachments/assets/0d020f90-504f-4592-8dcb-9e4f7676b2b3" />
+After loading the game, button options will appear.You can find it in the map specific.</n>游戏加载完毕后，会出现按钮选项。您可以在地图模块中找到它。
+<img width="715" height="419" alt="image" src="https://github.com/user-attachments/assets/af908bbb-1f21-46f4-aa09-ccef4a28bd43" />
+
 # control Azazel 控制大鬼
 It can only be controlled after the Great Ghost is activated.必须要大鬼激活之后才能控制
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25eb9657-2d74-4970-bbd2-94700cd671ed" />
