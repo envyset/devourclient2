@@ -21,4 +21,9 @@ You must drag the progress bar to adjust the number of offerings before you can 
 # change 更改
 <img width="503" height="224" alt="image" src="https://github.com/user-attachments/assets/b94294ad-7e12-4776-8c9b-ec8c6362f0c6" />
 The flashlight color change is replaced by the icon color change.手电筒颜色改变更换为改变图标颜色
+# 替换模型 Ultraman
+<img width="643" height="392" alt="image" src="https://github.com/user-attachments/assets/1c971cb8-810d-4b8b-84d9-69424490a368" />
+第一步:直接解压Mesh，放在Devour游戏目录下，保持Mesh文件下就是ab包资源，例如Mesh/annafull，一般来说直接解压就没问题了_______第二步:把dll放进Mods里______第三步：进入游戏，直接按o键调用，或者找到One的按钮调用，替换的皮肤必须是茉莉的麻烦制造者这款皮肤。
+
+
 
