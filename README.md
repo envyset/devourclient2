@@ -5,7 +5,7 @@ This project is a secondary development based on ALittlePatate's devourclient.�
 https://github.com/ALittlePatate/DevourClient
 <img width="935" height="462" alt="image" src="https://github.com/user-attachments/assets/35a868fb-0b63-4c01-a57b-1f302dce5b4c" />
 # 安装步骤
-请查看下的安装方法**[link]{[GitHub - ALittlePatate/DevourClient: A cheat for the game Devour.](https://github.com/ALittlePatate/DevourClient)}**
+请查看**[link]{[GitHub - ALittlePatate/DevourClient: A cheat for the game Devour.](https://github.com/ALittlePatate/DevourClient)}**中文安装方法
 # How to use 如何使用
 After loading the game, button options will appear.You can find it in the map specific.</n>游戏加载完毕后，会出现按钮选项。您可以在地图模块中找到它。
 <img width="715" height="419" alt="image" src="https://github.com/user-attachments/assets/af908bbb-1f21-46f4-aa09-ccef4a28bd43" />
