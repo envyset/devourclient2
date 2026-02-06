@@ -18,7 +18,7 @@ https://github.com/ALittlePatate/DevourClient
 
 ----------------
 
-# How to use 如何使用
+# Extra 其他功能
 After loading the game, button options will appear.You can find it in the map specific.</n>游戏加载完毕后，会出现按钮选项。您可以在地图模块中找到它。
 <img width="715" height="419" alt="image" src="https://github.com/user-attachments/assets/af908bbb-1f21-46f4-aa09-ccef4a28bd43" />
 
