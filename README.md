@@ -5,7 +5,12 @@ This project is a secondary development based on ALittlePatate's devourclient.�
 https://github.com/ALittlePatate/DevourClient
 <img width="935" height="462" alt="image" src="https://github.com/user-attachments/assets/35a868fb-0b63-4c01-a57b-1f302dce5b4c" />
 # 安装步骤
-请查看**[link]{[GitHub - ALittlePatate/DevourClient: A cheat for the game Devour.](https://github.com/ALittlePatate/DevourClient)}**中文安装方法
+请查看**[link]{[GitHub - ALittlePatate/DevourClient: A cheat for the game Devour.](https://github.com/ALittlePatate/DevourClient)}**中文安装指南
+# 替换模型 Ultraman
+<img width="643" height="392" alt="image" src="https://github.com/user-attachments/assets/1c971cb8-810d-4b8b-84d9-69424490a368" />
+第一步:直接解压Mesh，放在Devour游戏目录下，保持Mesh文件下就是ab包资源，例如Mesh/annafull，一般来说直接解压就没问题了_______第二步:把dll放进Mods里______第三步：进入游戏，直接按o键调用，或者找到One的按钮调用，替换的皮肤必须是茉莉的麻烦制造者这款皮肤。
+<img width="541" height="625" alt="image" src="https://github.com/user-attachments/assets/a72c035d-01d5-47ac-8de3-d791b1a0a9c2" />
+<img width="304" height="613" alt="image" src="https://github.com/user-attachments/assets/ec4d239f-fb8c-47cd-9345-664b997937df" />
 # How to use 如何使用
 After loading the game, button options will appear.You can find it in the map specific.</n>游戏加载完毕后，会出现按钮选项。您可以在地图模块中找到它。
 <img width="715" height="419" alt="image" src="https://github.com/user-attachments/assets/af908bbb-1f21-46f4-aa09-ccef4a28bd43" />
