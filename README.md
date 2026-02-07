@@ -10,7 +10,13 @@ https://github.com/ALittlePatate/DevourClient
 <img width="643" height="392" alt="image" src="https://github.com/user-attachments/assets/1c971cb8-810d-4b8b-84d9-69424490a368" />
 
 ----------------
-第一步:直接解压Mesh，放在Devour游戏目录下，保持Mesh文件下就是ab包资源，例如Mesh/annafull，一般来说直接解压就没问题了_______第二步:把dll放进Mods里______第三步：进入游戏，直接按o键调用，或者找到One的按钮调用，替换的皮肤必须是茉莉的麻烦制造者这款皮肤。
+第一步:直接解压Mesh，放在Devour游戏目录下，保持Mesh文件下就是ab包资源，例如Mesh/annafull，一般来说直接解压就没问题了
+
+----------------
+_______第二步:把DevourClient.dll放进Mods文件夹里
+
+----------------
+______第三步：进入游戏，直接按o键调用，或者按ins找到One的按钮调用，替换的皮肤必须是茉莉的麻烦制造者这款皮肤。
 
 ----------------
 <img width="541" height="625" alt="image" src="https://github.com/user-attachments/assets/a72c035d-01d5-47ac-8de3-d791b1a0a9c2" />
